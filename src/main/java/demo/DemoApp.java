@@ -2,7 +2,7 @@ package demo;
 
 public class DemoApp {
     public static void main(String[] args) {
-        System.out.println("Hello world! Welcome to my coding project!!");
+        System.out.println("Hello world! java coding is fun!!");
 
         Timestamp ts = new Timestamp();
         String currentTimestamp = ts.getTimestamp();
