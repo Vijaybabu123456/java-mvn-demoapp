@@ -9,3 +9,4 @@ public class DemoApp {
 		System.out.println("The current local Timestamp is: " + currentTimestamp);
     }
 }
+
