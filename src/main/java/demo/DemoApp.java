@@ -7,6 +7,7 @@ public class DemoApp {
         Timestamp ts = new Timestamp();
         String currentTimestamp = ts.getTimestamp();
 		System.out.println("The current local Timestamp is: " + currentTimestamp);
+        System.out.println("Happy working");
     }
 }
 
